@@ -10,7 +10,7 @@
 - Leetcode (Targetting 200 problems by April 2026)
 - ML System Design
 
-**Mission: DS Internship Summer 2026
+## Mission: DS Internship Summer 2026
 
 - [LinkedIn] (https://linkedin.com/in/raksha2212)
   
